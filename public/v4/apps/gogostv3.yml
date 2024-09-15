@@ -42,7 +42,7 @@ caproverOneClickApp:
         - id: $$cap_gost_nightly
           label: GOST Nightly Date
           description: Check out https://github.com/go-gost/gost/releases for versions (write down only the date part).
-          defaultValue: 20240715
+          defaultValue: 20240914
         - id: $$cap_gost_api_path
           label: Custom prefix path for GOST WebAPI
           description: At least 3 letter all lowercase
